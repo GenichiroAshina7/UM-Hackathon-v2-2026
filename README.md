@@ -78,3 +78,6 @@ The frontend connects to `http://localhost:8000` by default. To change this, upd
 | `npm install` fails | Delete `node_modules` and `package-lock.json`, then retry |
 | Can't reach backend from phone | Use your computer's local IP (e.g. `http://192.168.x.x:8000`) instead of `localhost` in `app.json` |
 | API returns 401 | Check that your `GLM_API_KEY` in `.env` is correct and has no extra whitespace |
+
+
+Note: If all things fail, even troubleshooting too, just use the Claude Extension to troubleshoot as a last resort. 
