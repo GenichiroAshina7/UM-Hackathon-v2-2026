@@ -66,7 +66,7 @@ From the Expo menu:
 - Press **a** for Android emulator (requires Android Studio)
 - Scan the QR code with the **Expo Go** app on your phone
 
-The frontend connects to `http://localhost:8000` by default. To change this, update `extra.API_BASE_URL` in `frontend/app.json`.
+The frontend connects to `http://localhost:8000` by default. To change this, update `extra.API_BASE_URL` in `frontend/app.json`. If `http://localhost:8000` does not work, or redirects to the backend, try `http://localhost:8081`.
 
 ---
 
