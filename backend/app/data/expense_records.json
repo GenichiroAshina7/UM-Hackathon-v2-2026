@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8c0a13a2-fcc7-4ee2-8a3d-50719b97867b",
+    "category": "Rent & Utilities",
+    "description": "Monthly rent",
+    "amount": 500.0,
+    "needs_wants": "needs",
+    "date": "2025-01-01",
+    "created_at": "2026-04-25T17:33:23.519168"
+  },
+  {
+    "id": "77228656-f358-40cb-86e7-04695a08a22b",
+    "category": "Food & Groceries",
+    "description": "Monthly groceries",
+    "amount": 600.0,
+    "needs_wants": "needs",
+    "date": "2025-01-01",
+    "created_at": "2026-04-25T17:33:23.519423"
+  },
+  {
+    "id": "210557a6-6588-4a75-8c63-100e1dc58091",
+    "category": "Transport",
+    "description": "Motorcycle petrol",
+    "amount": 150.0,
+    "needs_wants": "needs",
+    "date": "2025-01-01",
+    "created_at": "2026-04-25T17:33:23.520123"
+  },
+  {
+    "id": "0fccebb7-3ed7-4f08-8aab-52b7efd75f13",
+    "category": "Children's Needs",
+    "description": "School fees and supplies",
+    "amount": 200.0,
+    "needs_wants": "needs",
+    "date": "2025-01-01",
+    "created_at": "2026-04-25T17:33:23.520594"
+  },
+  {
+    "id": "a36f919c-52c7-467a-8c2b-825647b70350",
+    "category": "Debt Repayment",
+    "description": "Informal lender payment",
+    "amount": 200.0,
+    "needs_wants": "needs",
+    "date": "2025-01-01",
+    "created_at": "2026-04-25T17:33:23.520951"
+  },
+  {
+    "id": "55f37816-4280-492e-9b59-3eef8f4c2584",
+    "category": "Healthcare",
+    "description": "Clinic visit",
+    "amount": 80.0,
+    "needs_wants": "needs",
+    "date": "2025-01-15",
+    "created_at": "2026-04-25T17:33:23.521360"
+  },
+  {
+    "id": "ea334181-27cb-4045-ad27-bb76d9d07b6d",
+    "category": "Others",
+    "description": "Phone credit",
+    "amount": 50.0,
+    "needs_wants": "wants",
+    "date": "2025-01-10",
+    "created_at": "2026-04-25T17:33:23.521684"
+  },
+  {
+    "id": "c045f579-63d8-459d-8595-cfebebf82bd4",
+    "category": "Food & Groceries",
+    "description": "Snacks and extras",
+    "amount": 120.0,
+    "needs_wants": "wants",
+    "date": "2025-01-20",
+    "created_at": "2026-04-25T17:33:23.522007"
+  }
+]

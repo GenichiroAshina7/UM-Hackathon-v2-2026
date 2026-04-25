@@ -1,0 +1,18 @@
+[
+  {
+    "id": "718b6288-73d7-4e51-80de-85c8b3371a4f",
+    "source": "Husband's construction work",
+    "type": "variable",
+    "amount": 1200.0,
+    "date": "2025-01-25",
+    "created_at": "2026-04-25T17:33:23.518618"
+  },
+  {
+    "id": "41329ec8-127d-45f4-aa5a-343f53f8ee3e",
+    "source": "Weekend nasi lemak stall",
+    "type": "variable",
+    "amount": 600.0,
+    "date": "2025-01-25",
+    "created_at": "2026-04-25T17:33:23.518762"
+  }
+]

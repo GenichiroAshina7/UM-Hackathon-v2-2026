@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c936a223-bd38-49bf-85b9-60d042be0c28",
+    "creditor": "Informal lender",
+    "type": "informal",
+    "total_owed": 3000.0,
+    "monthly_payment": 200.0,
+    "interest_rate": 10.0,
+    "created_at": "2026-04-25T17:33:23.522210",
+    "updated_at": "2026-04-25T17:33:23.522210"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "605c0d89-f2a0-420d-a745-0e7a84bc49a3",
+    "name": "Nasi Lemak",
+    "category": "Food",
+    "cost_per_unit": 3.8,
+    "current_price": 3.5,
+    "monthly_volume": 400,
+    "competitor_price_low": 4.0,
+    "competitor_price_high": 6.0,
+    "created_at": "2026-04-25T17:33:23.516761",
+    "updated_at": "2026-04-25T17:33:23.516761"
+  },
+  {
+    "id": "b677c105-f1b0-4e92-868d-ff30fa7d212f",
+    "name": "Mee Goreng",
+    "category": "Food",
+    "cost_per_unit": 2.9,
+    "current_price": 3.0,
+    "monthly_volume": 250,
+    "competitor_price_low": 3.5,
+    "competitor_price_high": 5.5,
+    "created_at": "2026-04-25T17:33:23.516989",
+    "updated_at": "2026-04-25T17:33:23.516989"
+  },
+  {
+    "id": "44031cfb-c08a-4f42-9db8-b70c4ada9074",
+    "name": "Teh Tarik",
+    "category": "Drinks",
+    "cost_per_unit": 1.8,
+    "current_price": 1.5,
+    "monthly_volume": 500,
+    "competitor_price_low": 1.8,
+    "competitor_price_high": 3.0,
+    "created_at": "2026-04-25T17:33:23.517639",
+    "updated_at": "2026-04-25T17:33:23.517639"
+  },
+  {
+    "id": "24ae6c12-3466-4c54-8fd2-6feabb2b580e",
+    "name": "Kuih Muih",
+    "category": "Snacks",
+    "cost_per_unit": 1.2,
+    "current_price": 1.0,
+    "monthly_volume": 300,
+    "competitor_price_low": 1.2,
+    "competitor_price_high": 2.0,
+    "created_at": "2026-04-25T17:33:23.518195",
+    "updated_at": "2026-04-25T17:33:23.518195"
+  }
+]
