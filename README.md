@@ -32,7 +32,7 @@ Edit `backend/.env` and replace the placeholder with your actual API key:
 
 ```
 GLM_API_KEY=your_glm_api_key_here
-GLM_BASE_URL=https://open.bigmodel.cn/api/paas/v4
+GLM_BASE_URL=https://api.ilmu.ai/anthropic
 ```
 
 Start the server:
