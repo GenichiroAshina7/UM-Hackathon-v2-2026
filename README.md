@@ -80,4 +80,4 @@ The frontend connects to `http://localhost:8000` by default. To change this, upd
 | API returns 401 | Check that your `GLM_API_KEY` in `.env` is correct and has no extra whitespace |
 
 
-Note: If all things fail, even troubleshooting too, just use the Claude Extension to troubleshoot as a last resort. I 100% guarantee you it would run :)
+Note: If all things fail, even troubleshooting too, just use the Claude Extension and ask it to run the program for you as a last resort. I 100% guarantee you it would run :)
